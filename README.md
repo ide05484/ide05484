@@ -7,6 +7,6 @@
 💻 SSAFY 11기 서울캠퍼스 비전공 자바 반 <br>
 🎈 SSAFYcial 11기 기자단/홍보단 <br>
 
-<a href="https://www.instagram.com/doster_inssafy/" target="_blank"><img src="https://img.shields.io/badge/instagram=ECD53F?style=flat&logo=appveyor&logoColor=000000"/></a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ide05484&show_icons=true&theme=radical)
