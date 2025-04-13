@@ -13,9 +13,14 @@
 
 <div align="center">
   
-  💻 SSAFY 11기 서울캠퍼스 비전공 자바 반 <br>
+  💻 SSAFY 11기 서울캠퍼스 비전공 자바 반 최우수 수료(5% 이내) <br>
+  🏆 SSAFY 공통 프로젝트 우수상(1등) <a href="https://github.com/planetrush/planetrush">Planet Rush</a> <br>
+  🏆 SSAFY 특화 프로젝트 우수상(1등) <a href="https://github.com/Fooodding/Fooodding">Fooodding</a>  <br>
+  🏆 SSAFY 자율 프로젝트 우수상(1등) 및 결선 입상 <a href="https://github.com/ide05484/s-care">S-Care</a> <br>
+  🏆 SSAFY 삼성전자 대표 이사상(2024.12.19) <br>
   🎈 SSAFYcial 11기 기자단/홍보단 <a href="https://www.instagram.com/doster_inssafy/">@doster_inssafy</a> <br>
-  🎓 고려대학교 디자인조형학부 산업정보디자인과 졸업 <br>
+  <br>
+  🎓 고려대학교 디자인조형학부 산업정보디자인과(UXUI) 졸업 <a href="http://kiid.korea.ac.kr/2021/">2021 Quick Response</a>  <br>
 
 </div>
 
@@ -72,6 +77,12 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 
+<br>
+
+<h3 align="center">
+  <b>✨  Design Tool  ✨</b>
+</h3>
+
 ![Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)&nbsp;
 ![Indesign](https://img.shields.io/badge/adobeindesign-%23FF3366.svg?style=for-the-badge&logo=adobeindesign&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;
@@ -89,8 +100,6 @@
 </h3>
 
 <div align="center">
-
-  ![Doeun Status](https://github-readme-stats.vercel.app/api?username=ide05484&show_icons=true)  
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ide05484&layout=compact&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
